@@ -1,6 +1,6 @@
 Role,Required_Skills
-Software Developer,python,java,git,oop
-Data Analyst,python,pandas,sql,excel
-Cybersecurity Analyst,networking,linux,nmap,firewall
-Web Developer,html,css,javascript,react
-Machine Learning Engineer,python,scikit-learn,numpy,matplotlib
+"Software Developer","python, java, git, oop"
+"Data Analyst","python, pandas, sql, excel"
+"Cybersecurity Analyst","networking, linux, nmap, firewall"
+"Web Developer","html, css, javascript, react"
+"Machine Learning Engineer","python, scikit-learn, numpy, matplotlib"
