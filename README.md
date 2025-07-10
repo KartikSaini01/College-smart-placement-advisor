@@ -40,12 +40,25 @@ streamlit run app.py
 
 ## 📸 Demo Screenshots
 
-| Step | Preview |
-|------|---------|
-| 📝 Resume Upload + Profile Form | [![Upload](screens/upload.png)](screens/upload.png) |
-| 🧠 Job Recommendations | [![Recommend](screens/recommend.png)](screens/recommend.png) |
-| 📊 Match % & Graph | [![Chart](screens/chart.png)](screens/chart.png) |
-| 🧩 Skill Suggestions | [![Skills](screens/skills.png)](screens/skills.png) |
+<table>
+  <tr>
+    <td>📝 Resume Upload + Profile Form</td>
+    <td><a href="screens/upload.png"><img src="screens/upload.png" width="300"/></a></td>
+  </tr>
+  <tr>
+    <td>🧠 Job Recommendations</td>
+    <td><a href="screens/recommend.png"><img src="screens/recommend.png" width="300"/></a></td>
+  </tr>
+  <tr>
+    <td>📊 Match % & Graph</td>
+    <td><a href="screens/chart.png"><img src="screens/chart.png" width="300"/></a></td>
+  </tr>
+  <tr>
+    <td>🧩 Skill Suggestions</td>
+    <td><a href="screens/skills.png"><img src="screens/skills.png" width="300"/></a></td>
+  </tr>
+</table>
+
 
 
 ## 📌 Sample Job Roles (CSV)
