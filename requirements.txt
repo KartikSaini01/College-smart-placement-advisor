@@ -6,3 +6,4 @@ pytesseract
 pillow
 requests      # (URL download)
 pdfminer.six  # (optional alternate parser)
+matplotlib
