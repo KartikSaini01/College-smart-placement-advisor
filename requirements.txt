@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn
+pymupdf
+pytesseract
+pillow
+requests      # (URL download)
+pdfminer.six  # (optional alternate parser)
