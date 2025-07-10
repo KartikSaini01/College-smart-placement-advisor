@@ -42,10 +42,11 @@ streamlit run app.py
 
 | Step | Preview |
 |------|---------|
-| 📝 Resume Upload + Profile Form | ![Upload](screens/upload.png) |
-| 🧠 Job Recommendations | ![Recommend](screens/recommend.png) |
-| 📊 Match % & Graph | ![Chart](screens/chart.png) |
-| 🧩 Skill Suggestions | ![Skills](screens/skills.png) |
+| 📝 Resume Upload + Profile Form | [![Upload](screens/upload.png)](screens/upload.png) |
+| 🧠 Job Recommendations | [![Recommend](screens/recommend.png)](screens/recommend.png) |
+| 📊 Match % & Graph | [![Chart](screens/chart.png)](screens/chart.png) |
+| 🧩 Skill Suggestions | [![Skills](screens/skills.png)](screens/skills.png) |
+
 
 ## 📌 Sample Job Roles (CSV)
 
